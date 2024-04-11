@@ -1,2 +1,1 @@
- # Git-test
-Naprai novi ripozitori public, ime projekta  Git-test
+Prvi fajl od pet je readme file
